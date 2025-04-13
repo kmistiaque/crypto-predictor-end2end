@@ -1,0 +1,13 @@
+tensorflow-intel==2.10.0
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+prophet
+plotly
+scipy
+seaborn
+flask
+flask-cors
